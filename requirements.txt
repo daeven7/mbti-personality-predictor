@@ -107,7 +107,7 @@ msgpack-python==0.5.6
 multipledispatch==0.5.0
 munkres3==1.0.5.5
 mypy-lang==0.4.6
-navigator-updater==0.2.1
+
 nbconvert==5.3.1
 nbformat==4.4.0
 networkx==2.1
