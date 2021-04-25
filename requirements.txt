@@ -156,7 +156,7 @@ pydotplus==2.0.2
 pyflakes==1.4.0
 Pygments==2.2.0
 PyGObject==3.32.2
-pygpu==0.7.6
+
 pylint==1.8.4
 pyodbc==4.0.23
 pyOpenSSL==18.0.0
