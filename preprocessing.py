@@ -14,9 +14,6 @@ import pandas as pd
 import re
 import string
 
-import imblearn
-from imblearn.over_sampling import SMOTE
-from imblearn.over_sampling import RandomOverSampler
 
 
 import nltk

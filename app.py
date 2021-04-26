@@ -39,7 +39,7 @@ def output():
     NS=load_model_rfc_NS.predict(test_input)[0]
     TF=load_model_rfc_TF.predict(test_input)[0]
 
-    res= IE+" "+JP+" "+NS+" "+" "+TF
+    res= IE+" "+NS+" "+TF+" "+" "+JP
     
     return render_template('index.html',pred='Your Personality is {}'.format(res))
     
